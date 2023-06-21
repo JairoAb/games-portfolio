@@ -5,11 +5,11 @@ import { PrimerParcial } from './pages/PrimerParcial'
 import { SegundoParcial } from './pages/SegundoParcial'
 
 import {
-  createBrowserRouter,
+  createHashRouter,
   RouterProvider,
 } from "react-router-dom";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     element: <NavBar />,
     children: [
