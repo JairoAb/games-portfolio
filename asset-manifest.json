@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/JairoAb/games-portfolio/static/css/main.58147414.css",
+    "main.js": "/JairoAb/games-portfolio/static/js/main.d8ec6d6b.js",
+    "static/media/idea2.jpg": "/JairoAb/games-portfolio/static/media/idea2.b6144a788859eaf07358.jpg",
+    "static/media/ideaganadora.jpg": "/JairoAb/games-portfolio/static/media/ideaganadora.12e0e2ffd77c25180cd8.jpg",
+    "static/media/idea3.jpg": "/JairoAb/games-portfolio/static/media/idea3.8db7e8e0813ff820b16f.jpg",
+    "static/media/idea1.jpg": "/JairoAb/games-portfolio/static/media/idea1.c140a093f7d3b0a201e7.jpg",
+    "static/media/banner-bg.png": "/JairoAb/games-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/JairoAb/games-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/JairoAb/games-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/JairoAb/games-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/JairoAb/games-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/nav-icon2.svg": "/JairoAb/games-portfolio/static/media/nav-icon2.78b75761e67c8e684972e62008d3a092.svg",
+    "static/media/logo.svg": "/JairoAb/games-portfolio/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/JairoAb/games-portfolio/index.html",
+    "main.58147414.css.map": "/JairoAb/games-portfolio/static/css/main.58147414.css.map",
+    "main.d8ec6d6b.js.map": "/JairoAb/games-portfolio/static/js/main.d8ec6d6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58147414.css",
+    "static/js/main.d8ec6d6b.js"
+  ]
+}
