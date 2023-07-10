@@ -201,7 +201,9 @@ export const PrimerParcial = () => {
         1.- Se actualiza el mapa para que todos los jugadores se encuentren en igualdad de condiciones al iniciar
         la partida. <br></br>
 
-        2.- Una de las zonas conquistables ahora es solo accesible mediante el uso de los portales de teletransporte.
+        2.- Una de las zonas conquistables ahora es solo accesible mediante el uso de los portales de teletransporte. <br></br>
+
+        3.- Ahora al sacar el numero 6 el seguidor se mueve a una zona de salida, desde ahí se mueve normalmente con los dados
          <br></br>
 
         </p>
