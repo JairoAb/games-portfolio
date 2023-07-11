@@ -10,3 +10,7 @@
   background-color: rgb(163, 231, 211) !important;
   font-weight: 700;
 }
+
+.descripcion{
+  text-align: justify;
+}

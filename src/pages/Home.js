@@ -12,6 +12,12 @@ export const Home = () => {
               <span className="tagline">Game Developers</span>
               <h1>¡Hola! <br/> Somos From Realms </h1>
               <p>Somos un grupo de desarrollo de juegos de video de ESPOL</p>
+              <h2>Integrantes: <br/></h2>
+              <h4>- Jairo Alcívar<br/></h4>
+              <h4>- José Macías<br/></h4>
+              <h4>- Esteban Pulley<br/></h4>
+              <h4>- Sebastian Poveda<br/></h4>
+              
             </div>
           </Col>
           <Col xs={12} md={6} xl={5}>
