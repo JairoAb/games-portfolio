@@ -1,31 +1,39 @@
 {
   "files": {
-    "main.css": "/games-portfolio/static/css/main.ff9d77d8.css",
-    "main.js": "/games-portfolio/static/js/main.7fe8332a.js",
+    "main.css": "/games-portfolio/static/css/main.886ae725.css",
+    "main.js": "/games-portfolio/static/js/main.5952dc0e.js",
     "static/media/idea2.jpg": "/games-portfolio/static/media/idea2.4acb475de3f59a61ad53.jpg",
     "static/media/idea3.jpg": "/games-portfolio/static/media/idea3.8db7e8e0813ff820b16f.jpg",
     "static/media/idea1.jpg": "/games-portfolio/static/media/idea1.c140a093f7d3b0a201e7.jpg",
-    "static/media/playtesting.jpg": "/games-portfolio/static/media/playtesting.601f3016a7128a7969b4.jpg",
+    "static/media/fosasComunes.jpg": "/games-portfolio/static/media/fosasComunes.05e20e3298502c7172ef.jpg",
+    "static/media/zonasConquistables.jpg": "/games-portfolio/static/media/zonasConquistables.90743ea0571d81f406db.jpg",
+    "static/media/playtestingV2-2.jpg": "/games-portfolio/static/media/playtestingV2-2.1d78c4ad5b19ee788f67.jpg",
     "static/media/banner-bg.png": "/games-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/EventoV1.jpeg": "/games-portfolio/static/media/EventoV1.f5337eaa638e4b0a89b8.jpeg",
+    "static/media/ideaganadoraV3.jpg": "/games-portfolio/static/media/ideaganadoraV3.cd76e99453ea86cb3712.jpg",
     "static/media/ideaganadora.jpg": "/games-portfolio/static/media/ideaganadora.bebc59ca15e4dfb4e55a.jpg",
+    "static/media/playtestingV1-2.jpg": "/games-portfolio/static/media/playtestingV1-2.bebc59ca15e4dfb4e55a.jpg",
     "static/media/ideaganadoraV2.jpg": "/games-portfolio/static/media/ideaganadoraV2.922a3152154d1548da55.jpg",
+    "static/media/EquipoV1.jpeg": "/games-portfolio/static/media/EquipoV1.f2c53b9fb17e68d8cb85.jpeg",
     "static/media/playtestingV2.jpg": "/games-portfolio/static/media/playtestingV2.86266e3f6fd8bc49106f.jpg",
     "static/media/header-img.svg": "/games-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/playtestingV1.jpg": "/games-portfolio/static/media/playtestingV1.2f5741ef0ac3d65b3392.jpg",
     "static/media/CartasDeEquipo.jpg": "/games-portfolio/static/media/CartasDeEquipo.68829fad9aacbfb04069.jpg",
-    "static/media/ideaganadoraV3.jpg": "/games-portfolio/static/media/ideaganadoraV3.276e5010f545dee87047.jpg",
+    "static/media/playtestingV3.jpg": "/games-portfolio/static/media/playtestingV3.181639e68a7b9080792c.jpg",
+    "static/media/playtestingV3-2.jpg": "/games-portfolio/static/media/playtestingV3-2.5d8441c1b56144955c72.jpg",
+    "static/media/CartasDeEquipoVacias.jpg": "/games-portfolio/static/media/CartasDeEquipoVacias.745bc90491c4c014a6b6.jpg",
     "static/media/CartasDeEquipoEvento.jpg": "/games-portfolio/static/media/CartasDeEquipoEvento.68a53f133788854e8f68.jpg",
     "static/media/CentraNo2-Bold.ttf": "/games-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/games-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/games-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/logo.svg": "/games-portfolio/static/media/logo.e8b2a9047b53902cc11c88ef5b5fdfd1.svg",
     "static/media/nav-icon2.svg": "/games-portfolio/static/media/nav-icon2.78b75761e67c8e684972e62008d3a092.svg",
-    "static/media/logo.svg": "/games-portfolio/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
     "index.html": "/games-portfolio/index.html",
-    "main.ff9d77d8.css.map": "/games-portfolio/static/css/main.ff9d77d8.css.map",
-    "main.7fe8332a.js.map": "/games-portfolio/static/js/main.7fe8332a.js.map"
+    "main.886ae725.css.map": "/games-portfolio/static/css/main.886ae725.css.map",
+    "main.5952dc0e.js.map": "/games-portfolio/static/js/main.5952dc0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff9d77d8.css",
-    "static/js/main.7fe8332a.js"
+    "static/css/main.886ae725.css",
+    "static/js/main.5952dc0e.js"
   ]
 }
