@@ -1,4 +1,4 @@
-import { Container, Row, Col, Image, Card } from "react-bootstrap";
+import { Container, Row, Col, Image } from "react-bootstrap";
 
 import idea1 from "../assets/img/idea1.jpg";
 import idea2 from "../assets/img/idea2.jpg";
