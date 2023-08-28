@@ -4,9 +4,33 @@ import idea1 from "../assets/img/idea12p.jpg";
 import idea2 from "../assets/img/idea22p.jpg";
 import idea3 from "../assets/img/idea32p.jpg";
 import idea4 from "../assets/img/idea42p.jpg";
-import semana1 from "../assets/img/semana1.png";
-import semana2 from "../assets/img/semana2.png";
-import semana3 from "../assets/img/semana3.png";
+import semana1 from "../assets/img/2Parcial/semana1.png";
+
+import semana2 from "../assets/img/2Parcial/semana2.png";
+import semana3 from "../assets/img/2Parcial/semana3.png";
+import semana4 from "../assets/img/2Parcial/semana4.png";
+
+import blender0 from "../assets/img/2Parcial/Blender-EP-0.jpg";
+import blender1 from "../assets/img/2Parcial/Blender-EP-1.jpg";
+import mundo0 from "../assets/img/2Parcial/Playtesting-JO-1-Mundo-0.jpg";
+import mundo1 from "../assets/img/2Parcial/Playtesting-JO-1-Mundo-1.jpg";
+import mundo2 from "../assets/img/2Parcial/Playtesting-JO-1-Mundo-2.jpg";
+import arboles0 from "../assets/img/2Parcial/Playtesting-JO-1-Mundo-Gen-Arboles-0.jpg";
+import arboles1 from "../assets/img/2Parcial/Playtesting-JO-1-Mundo-Gen-Arboles-1.jpg";
+import biomas0 from "../assets/img/2Parcial/Playtesting-JO-1-Mundo-Gen-Biomas-0.jpg";
+import biomas1 from "../assets/img/2Parcial/Playtesting-JO-1-Mundo-Gen-Biomas-1.png";
+import enemigos0 from "../assets/img/2Parcial/Playtesting-JA-1-Enemigos.png";
+import vida0 from "../assets/img/2Parcial/Playtesting-JO-1-Vida-0.png";
+import vida1 from "../assets/img/2Parcial/Playtesting-JO-1-Vida-1.png";
+import misiones0 from "../assets/img/2Parcial/Playtesting-JO-1-Misiones-0.jpg";
+import misiones1 from "../assets/img/2Parcial/Playtesting-JO-1-Misiones-1.jpg";
+import misiones2 from "../assets/img/2Parcial/Playtesting-JA-1-Misiones-Lose.jpg";
+import misiones3 from "../assets/img/2Parcial/Playtesting-JA-1-Misiones-Win.jpg";
+
+import playtesting0 from "../assets/img/2Parcial/Playtesting-SA-1.jpg";
+import playtesting1 from "../assets/img/2Parcial/Playtesting-SA-2.jpg";
+import playtesting2 from "../assets/img/2Parcial/Playtesting-SA-JA-1.jpg";
+
 
 import './SegundoParcial.css'
 
@@ -183,9 +207,134 @@ export const SegundoParcial = () => {
         <h4><br></br>14/08 - 20/08</h4>
 
         <Image src={semana3} rounded />
-        
-      </Container>
 
+        <h3><br></br>Semana 4</h3>
+        <h4><br></br>21/08 - 27/08</h4>
+
+        <Image src={semana4} rounded />
+
+        <h2><br></br>Ejecución</h2>
+
+          <h4><br></br>Creación del personaje principal</h4>
+          <Row className="py-2">
+            <Col> <Image src={blender0} rounded /> </Col>
+            <Col> <Image src={blender1} rounded /></Col>
+          </Row>
+          <Row className="py-2">
+            <Col> Modelo inicial en blanco </Col>
+            <Col> Modelo final pintado </Col>
+          </Row>
+          
+          <h4><br></br>Generación de Mundo</h4>
+
+            <h5><br></br>Terreno</h5>
+            <Row className="py-3">
+              <Col> <Image src={mundo0} rounded /> </Col>
+              <Col> <Image src={mundo1} rounded /> </Col>
+              <Col> <Image src={mundo2} rounded /> </Col>
+            </Row>
+            <Row className="py-3">
+              <Col> Generación procedural de mundo inicial </Col>
+              <Col> Generación procedural de mundo y árboles </Col>
+              <Col> Generación procedural de mundo y bordes </Col>
+            </Row>
+
+            <h5><br></br>Árboles</h5>
+            <Row className="py-3">
+              <Col> <Image src={mundo1} rounded /> </Col>
+              <Col> <Image src={arboles0} rounded /> </Col>
+              <Col> <Image src={arboles1} rounded /> </Col>
+            </Row>
+            <Row className="py-3">
+              <Col> Generación Inicial de Árboles </Col>
+              <Col> Generación de Árboles distintos </Col>
+              <Col> Generación de Árboles por Bioma </Col>
+            </Row>
+
+            <h5><br></br>Biomas</h5>
+            <Row className="py-3">
+              <Col> <Image src={biomas0} rounded /> </Col>
+              <Col> <Image src={arboles1} rounded /> </Col>
+              <Col> <Image src={biomas1} rounded /> </Col>
+            </Row>
+            <Row className="py-3">
+              <Col> Generación Inicial de Biomas </Col>
+              <Col> Generación de Biomas con Árboles</Col>
+              <Col> Generación de Biomas con Bordes Correctos </Col>
+            </Row>
+
+          <h4><br></br>Enemigos</h4>
+            <Row className="py-3">
+              <Col> <Image src={enemigos0} rounded /> </Col>
+            </Row>
+            <Row className="py-3">
+              <Col> Enemigos - Generación - Seguimiento - Ataque </Col>
+            </Row>
+
+          <h4><br></br>Consumibles</h4>
+            <h5><br></br>Curación</h5>
+            <Row className="py-3">
+              <Col> <Image src={vida0} rounded /> </Col>
+              <Col> <Image src={vida1} rounded /> </Col>
+            </Row>
+            <Row className="py-3">
+              <Col> Generación de Consumibles para Regenerar Vida </Col>
+              <Col> Uso de consumible </Col>
+            </Row>
+
+          <h4><br></br>Misiones</h4>
+            <h5><br></br>UI de Misiones</h5>
+            <Row className="py-3">
+              <Col> <Image src={misiones0} rounded /> </Col>
+              <Col> <Image src={misiones1} rounded /> </Col>
+            </Row>
+            <Row className="py-3">
+              <Col> UI de Misiones V1</Col>
+              <Col> UI de Misiones V2 </Col>
+            </Row>
+
+            <h5><br></br>Estado de Misiones</h5>
+            <Row className="py-3">
+              <Col> <Image src={misiones2} rounded /> </Col>
+              <Col> <Image src={misiones3} rounded /> </Col>
+            </Row>
+            <Row className="py-3">
+              <Col> Pantalla de "Perdiste"</Col>
+              <Col> Pantalla de "Ganaste" </Col>
+            </Row>
+
+        <h2><br></br>Playtesting</h2>
+          <h4><br></br>Generales</h4>
+            <h5><br></br>Pruebas</h5>
+              <Row className="py-3">
+                <Col> <Image src={playtesting0} rounded /> </Col>
+                <Col> <Image src={playtesting1} rounded /> </Col>
+              </Row>
+            <h5><br></br>Retroalimentación</h5>
+              1. Añadir ataque a los enemigos. [Solucionado]
+              2. Los enemigos empujan al jugador y lo hacen ir hacia arriba. [Solucionado]
+              3. El ataque afecta a un solo enemigo por golpe, aumentarlo. [Solucionado/En estado de prueba] 
+              4. Agregar más bloques para mejorar el ambiente del juego.
+              5. Cambiar ciertos colores de los biomas, se los NPC se confunden con el fondo. [Solucionado/En estado de prueba]
+              6. La velocidad de las animaciones es muy lenta.
+              7. La velocidad de los enemigos es demasiada.
+              
+          <h4><br></br>Finales</h4>
+            <h5><br></br>Pruebas</h5>
+              <Row className="py-3">
+                <Col> <Image src={playtesting2} rounded /> </Col>
+              </Row>
+            <h5><br></br>Retroalimentación</h5>
+              1. Alta generación de consumibles de regeneración de vida.
+              2. El personaje al tocar las esquinas de los bordes del mapa puede atravesarlo si es insistente.
+              3. Música poco variada.
+              4. No existe botón de pausa.
+              5. Deberían haber más diferencias entre los npc que solo recolores.
+              6. Añadir mayor variedad de eventos.
+              7. Se podría añadir una habilidad especial para atacar a grupos de enemigos.
+      </Container>
+      <br></br>
+      <br></br>
     </section>
   )
 }
