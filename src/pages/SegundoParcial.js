@@ -310,27 +310,27 @@ export const SegundoParcial = () => {
                 <Col> <Image src={playtesting0} rounded /> </Col>
                 <Col> <Image src={playtesting1} rounded /> </Col>
               </Row>
-            <h5><br></br>Retroalimentación</h5>
-              1. Añadir ataque a los enemigos. [Solucionado]
-              2. Los enemigos empujan al jugador y lo hacen ir hacia arriba. [Solucionado]
-              3. El ataque afecta a un solo enemigo por golpe, aumentarlo. [Solucionado/En estado de prueba] 
-              4. Agregar más bloques para mejorar el ambiente del juego.
-              5. Cambiar ciertos colores de los biomas, se los NPC se confunden con el fondo. [Solucionado/En estado de prueba]
-              6. La velocidad de las animaciones es muy lenta.
+            <h5><br></br>Retroalimentación</h5><br></br>
+              1. Añadir ataque a los enemigos. [Solucionado]<br></br>
+              2. Los enemigos empujan al jugador y lo hacen ir hacia arriba. [Solucionado]<br></br>
+              3. El ataque afecta a un solo enemigo por golpe, aumentarlo. [Solucionado/En estado de prueba] <br></br>
+              4. Agregar más bloques para mejorar el ambiente del juego.<br></br>
+              5. Cambiar ciertos colores de los biomas, se los NPC se confunden con el fondo. [Solucionado/En estado de prueba]<br></br>
+              6. La velocidad de las animaciones es muy lenta.<br></br>
               7. La velocidad de los enemigos es demasiada.
-              
+
           <h4><br></br>Finales</h4>
             <h5><br></br>Pruebas</h5>
               <Row className="py-3">
                 <Col> <Image src={playtesting2} rounded /> </Col>
               </Row>
             <h5><br></br>Retroalimentación</h5>
-              1. Alta generación de consumibles de regeneración de vida.
-              2. El personaje al tocar las esquinas de los bordes del mapa puede atravesarlo si es insistente.
-              3. Música poco variada.
-              4. No existe botón de pausa.
-              5. Deberían haber más diferencias entre los npc que solo recolores.
-              6. Añadir mayor variedad de eventos.
+              1. Alta generación de consumibles de regeneración de vida.<br></br>
+              2. El personaje al tocar las esquinas de los bordes del mapa puede atravesarlo si es insistente.<br></br>
+              3. Música poco variada.<br></br>
+              4. No existe botón de pausa.<br></br>
+              5. Deberían haber más diferencias entre los npc que solo recolores.<br></br>
+              6. Añadir mayor variedad de eventos.<br></br>
               7. Se podría añadir una habilidad especial para atacar a grupos de enemigos.
       </Container>
       <br></br>
