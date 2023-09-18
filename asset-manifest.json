@@ -1,9 +1,15 @@
 {
   "files": {
     "main.css": "/games-portfolio/static/css/main.595be6e6.css",
-    "main.js": "/games-portfolio/static/js/main.984360e8.js",
+    "main.js": "/games-portfolio/static/js/main.b00dffd5.js",
     "static/media/idea2.jpg": "/games-portfolio/static/media/idea2.4acb475de3f59a61ad53.jpg",
+    "static/media/Playtesting-JO-1-Defensa-0.png": "/games-portfolio/static/media/Playtesting-JO-1-Defensa-0.d86dbbfe7b2946a55d53.png",
+    "static/media/Playtesting-JO-1-Defensa-1.png": "/games-portfolio/static/media/Playtesting-JO-1-Defensa-1.8b5f3c5fb63f046bdb1c.png",
+    "static/media/Playtesting-JO-1-Ataque-1.png": "/games-portfolio/static/media/Playtesting-JO-1-Ataque-1.55d4bbf389f732272342.png",
+    "static/media/Playtesting-JO-1-Ataque-0.png": "/games-portfolio/static/media/Playtesting-JO-1-Ataque-0.d92e961f46173a96e39b.png",
     "static/media/idea3.jpg": "/games-portfolio/static/media/idea3.8db7e8e0813ff820b16f.jpg",
+    "static/media/Playtesting-JO-1-Velocidad-0.png": "/games-portfolio/static/media/Playtesting-JO-1-Velocidad-0.b54605c0af37f78d63ba.png",
+    "static/media/Playtesting-JO-1-Velocidad-1.png": "/games-portfolio/static/media/Playtesting-JO-1-Velocidad-1.ebfb0d6adcd7a4c276d4.png",
     "static/media/idea1.jpg": "/games-portfolio/static/media/idea1.c140a093f7d3b0a201e7.jpg",
     "static/media/Playtesting-JO-1-Vida-0.png": "/games-portfolio/static/media/Playtesting-JO-1-Vida-0.32de957e2daf554eec9e.png",
     "static/media/Playtesting-JO-1-Vida-1.png": "/games-portfolio/static/media/Playtesting-JO-1-Vida-1.3e9d0c4fc28c2b7c8f04.png",
@@ -16,6 +22,7 @@
     "static/media/Playtesting-JO-1-Mundo-Gen-Arboles-1.jpg": "/games-portfolio/static/media/Playtesting-JO-1-Mundo-Gen-Arboles-1.3f0f5916df4e450c8f4d.jpg",
     "static/media/playtestingV2-2.jpg": "/games-portfolio/static/media/playtestingV2-2.1d78c4ad5b19ee788f67.jpg",
     "static/media/Playtesting-SA-2.jpg": "/games-portfolio/static/media/Playtesting-SA-2.a8d8bcf5c961f043bb68.jpg",
+    "static/media/Playtesting-SA-JO-1.jpg": "/games-portfolio/static/media/Playtesting-SA-JO-1.9a0a55c8dd5c43400f81.jpg",
     "static/media/banner-bg.png": "/games-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/EventoV1.jpeg": "/games-portfolio/static/media/EventoV1.f5337eaa638e4b0a89b8.jpeg",
     "static/media/idea42p.jpg": "/games-portfolio/static/media/idea42p.6a429ce903a9cc821ba1.jpg",
@@ -29,7 +36,10 @@
     "static/media/header-img.svg": "/games-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/playtestingV1.jpg": "/games-portfolio/static/media/playtestingV1.2f5741ef0ac3d65b3392.jpg",
     "static/media/CartasDeEquipo.jpg": "/games-portfolio/static/media/CartasDeEquipo.68829fad9aacbfb04069.jpg",
+    "static/media/Playtesting-SA-JA-2.jpg": "/games-portfolio/static/media/Playtesting-SA-JA-2.5d725ec58d8d4abb0ab1.jpg",
+    "static/media/Playtesting-JA-1-Persecucion.jpg": "/games-portfolio/static/media/Playtesting-JA-1-Persecucion.6fdb284bade520c1dc04.jpg",
     "static/media/Playtesting-JO-1-Mundo-1.jpg": "/games-portfolio/static/media/Playtesting-JO-1-Mundo-1.5bb20e3bb38f20fc2592.jpg",
+    "static/media/Playtesting-JA-1-Ruta.jpg": "/games-portfolio/static/media/Playtesting-JA-1-Ruta.aecb4f25b095d4bdc9b7.jpg",
     "static/media/Playtesting-SA-JA-1.jpg": "/games-portfolio/static/media/Playtesting-SA-JA-1.12592a90c8733652b15e.jpg",
     "static/media/playtestingV3.jpg": "/games-portfolio/static/media/playtestingV3.181639e68a7b9080792c.jpg",
     "static/media/Playtesting-SA-1.jpg": "/games-portfolio/static/media/Playtesting-SA-1.8759b90640a9dceb3288.jpg",
@@ -57,10 +67,10 @@
     "static/media/nav-icon2.svg": "/games-portfolio/static/media/nav-icon2.78b75761e67c8e684972e62008d3a092.svg",
     "index.html": "/games-portfolio/index.html",
     "main.595be6e6.css.map": "/games-portfolio/static/css/main.595be6e6.css.map",
-    "main.984360e8.js.map": "/games-portfolio/static/js/main.984360e8.js.map"
+    "main.b00dffd5.js.map": "/games-portfolio/static/js/main.b00dffd5.js.map"
   },
   "entrypoints": [
     "static/css/main.595be6e6.css",
-    "static/js/main.984360e8.js"
+    "static/js/main.b00dffd5.js"
   ]
 }
