@@ -22,14 +22,25 @@ import biomas1 from "../assets/img/2Parcial/Playtesting-JO-1-Mundo-Gen-Biomas-1.
 import enemigos0 from "../assets/img/2Parcial/Playtesting-JA-1-Enemigos.png";
 import vida0 from "../assets/img/2Parcial/Playtesting-JO-1-Vida-0.png";
 import vida1 from "../assets/img/2Parcial/Playtesting-JO-1-Vida-1.png";
+import ataque0 from "../assets/img/2Parcial/Playtesting-JO-1-Ataque-0.png";
+import ataque1 from "../assets/img/2Parcial/Playtesting-JO-1-Ataque-1.png";
+import defensa0 from "../assets/img/2Parcial/Playtesting-JO-1-Defensa-0.png";
+import defensa1 from "../assets/img/2Parcial/Playtesting-JO-1-Defensa-1.png";
+import velocidad0 from "../assets/img/2Parcial/Playtesting-JO-1-Velocidad-0.png";
+import velocidad1 from "../assets/img/2Parcial/Playtesting-JO-1-Velocidad-1.png";
+
 import misiones0 from "../assets/img/2Parcial/Playtesting-JO-1-Misiones-0.jpg";
 import misiones1 from "../assets/img/2Parcial/Playtesting-JO-1-Misiones-1.jpg";
 import misiones2 from "../assets/img/2Parcial/Playtesting-JA-1-Misiones-Lose.jpg";
 import misiones3 from "../assets/img/2Parcial/Playtesting-JA-1-Misiones-Win.jpg";
+import movimiento0 from "../assets/img/2Parcial/Playtesting-JA-1-Persecucion.jpg"
+import movimiento1 from "../assets/img/2Parcial/Playtesting-JA-1-Ruta.jpg"
 
 import playtesting0 from "../assets/img/2Parcial/Playtesting-SA-1.jpg";
 import playtesting1 from "../assets/img/2Parcial/Playtesting-SA-2.jpg";
 import playtesting2 from "../assets/img/2Parcial/Playtesting-SA-JA-1.jpg";
+import playtesting3 from "../assets/img/2Parcial/Playtesting-SA-JO-1.jpg";
+import playtesting4 from "../assets/img/2Parcial/Playtesting-SA-JA-2.jpg";
 
 
 import './SegundoParcial.css'
@@ -265,10 +276,14 @@ export const SegundoParcial = () => {
 
           <h4><br></br>Enemigos</h4>
             <Row className="py-3">
-              <Col> <Image src={enemigos0} rounded /> </Col>
+                  <Col> <Image src={enemigos0} rounded /> </Col>
+                  <Col> <Image src={movimiento0} rounded /> </Col>
+                  <Col> <Image src={movimiento1} rounded /> </Col>
             </Row>
             <Row className="py-3">
-              <Col> Enemigos - Generación - Seguimiento - Ataque </Col>
+                  <Col> Enemigos - Generación</Col>
+                  <Col> Enemigos - Seguimiento</Col>
+                  <Col> Enemigos - Ruta</Col>
             </Row>
 
           <h4><br></br>Consumibles</h4>
@@ -280,7 +295,37 @@ export const SegundoParcial = () => {
             <Row className="py-3">
               <Col> Generación de Consumibles para Regenerar Vida </Col>
               <Col> Uso de consumible </Col>
-            </Row>
+              </Row>
+
+              <h5><br></br>Velocidad</h5>
+              <Row className="py-3">
+                  <Col> <Image src={velocidad0} rounded /> </Col>
+                  <Col> <Image src={velocidad1} rounded /> </Col>
+              </Row>
+              <Row className="py-3">
+                  <Col> Generación de Consumibles para Aumentar la Velocidad</Col>
+                  <Col> Uso de consumible </Col>
+              </Row>
+
+              <h5><br></br>Ataque</h5>
+              <Row className="py-3">
+                  <Col> <Image src={ataque0} rounded /> </Col>
+                  <Col> <Image src={ataque1} rounded /> </Col>
+              </Row>
+              <Row className="py-3">
+                  <Col> Generación de Consumibles  para Aumentar el Ataque </Col>
+                  <Col> Uso de consumible </Col>
+              </Row>
+
+              <h5><br></br>Defensa</h5>
+              <Row className="py-3">
+                  <Col> <Image src={defensa0} rounded /> </Col>
+                  <Col> <Image src={defensa1} rounded /> </Col>
+              </Row>
+              <Row className="py-3">
+                  <Col> Generación de Consumibles para Aumentar la Defensa </Col>
+                  <Col> Uso de consumible </Col>
+              </Row>
 
           <h4><br></br>Misiones</h4>
             <h5><br></br>UI de Misiones</h5>
@@ -319,7 +364,7 @@ export const SegundoParcial = () => {
               6. La velocidad de las animaciones es muy lenta.<br></br>
               7. La velocidad de los enemigos es demasiada.
 
-          <h4><br></br>Finales</h4>
+          <h4><br></br>2da Iteración</h4>
             <h5><br></br>Pruebas</h5>
               <Row className="py-3">
                 <Col> <Image src={playtesting2} rounded /> </Col>
@@ -332,6 +377,18 @@ export const SegundoParcial = () => {
               5. Deberían haber más diferencias entre los npc que solo recolores.<br></br>
               6. Añadir mayor variedad de eventos.<br></br>
               7. Se podría añadir una habilidad especial para atacar a grupos de enemigos.
+
+              <h4><br></br>Iteración Final</h4>
+              <h5><br></br>Pruebas</h5>
+              <Row className="py-3">
+                  <Col> <Image src={playtesting3} rounded /> </Col>
+                  <Col> <Image src={playtesting4} rounded /> </Col>
+              </Row>
+              <h5><br></br>Retroalimentación</h5>
+              1. Generación alta de orbes de velocidad (En realidad se trataba de suerte del usuario, pues todos los orbes tienen la misma probabilidad de aparecer).<br></br>
+              2. A veces pasa un buen tiempo sin encontrar a un enemigo debido a que no se acercan demasiado a su ruta.<br></br>
+              3. Los íconos de efectos podrían parpadear cuando están a punto de acabarse.<br></br>
+
       </Container>
       <br></br>
       <br></br>
